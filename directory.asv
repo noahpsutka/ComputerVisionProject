@@ -1,0 +1,3 @@
+data_directory = "/training_test_data";
+code_directory = '';
+training_directory = '';
